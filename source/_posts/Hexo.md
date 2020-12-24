@@ -2,6 +2,7 @@
 title: Hexo
 date: 2020-12-24 13:46:01
 tags: [建站, 框架]
+toc: true
 ---
 
 ### 安装
