@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 解宜江的博客
-subtitle: 学到点啥就记一下
-description: 野生程序猿, 实践出真知
-keywords: Web 全栈工程师 ( 跟真的一样 )
-author: Eren
+title: crab7 的博客
+subtitle: 我还能学 ( 真学不动了 下次吧 )
+description: Web 全栈工程师 ( 7% )
+keywords: 技术向博客, JavaScript, Node.js, Linux, MySql 
+author: crab7
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
